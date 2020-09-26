@@ -1,0 +1,4 @@
+db name= php_login
+table name = log 
+column: id(auto_increament),name,email,password 
+registered user = qwerty,qwerty@gmail.com,qwerty
